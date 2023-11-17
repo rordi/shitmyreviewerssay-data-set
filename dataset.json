@@ -1,0 +1,3319 @@
+[
+  {
+    "extract": "Your model is a black hole from which no light escapes.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "If there ever is an award for most acronyms in a paper, this one would win it hands down.",
+    "context": "Finally, it is impossible for the reader to keep track of the hundreds (thousands?) of acronyms in the paper. If there ever is an award for most acronyms in a paper, this one would win it hands down.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I urge the authors to consider and discuss the consequences of what they propose with more rigor and based on a wider review of current evidence, rather than building hypothetical castles in the air.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Finally, the paper is poorly and hastily written, with typos, poor organization, and poor characterization of the basic work it's built on.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The paper is long, very long, and got longer. It was hard to get engaged. There is no metaanalysis - why does the material have to be so long?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The content of this paper is neither novel nor exciting",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "English of the manuscripts need improvisation.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper cannot be accepted; it does not meet basic scientific writing.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is one of the worst papers I have reviewed in recent years.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "And it's not clear to me if the authors believe this is a problem they could handle.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This paper…. did not excite me.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I think the paper is poorly written and most of its statements are wrongly and poorly motivated.",
+    "context": "The manuscript is generally interesting, however, too narrow in its scope for us. Also, the paper is badly written, and poorly organized. In its current form, the paper cannot be accepted. The paper is poorly written or poorly thought-out. I think the paper is poorly written and most of its statements are wrongly and poorly motivated.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The authors seem to be reinventing the wheel and a flat tire to go along with it.'",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "If published, uneducated and misinformed statements like this would jeopardize the credibility of [name of journal].",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This study is weak. No innovation.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The authors past work (which is related closely to this) has gained some attention in the community: most of this is due to the wrong reasons.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Returning to the introduction, the study rationale is unclear, the exact research question to be addressed poorly delineated and the overall motivation for the study poorly linked to the literature summary and aims of the study.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The arguments in the paper are compelling but not convincing.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I thought that the author might be trying to 'have it both ways.' To be clear, this was just a passing thought and frankly, I read the manuscript about two weeks ago and don't remember the context, nor did I cross-walk one part of the essay with another to validate the thought.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "All I can say is that the author is blissfully unaware of what a standard is - in linguistic terms - and does not have the linguistic competence to describe it.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "To improve this you need to be more robust on all fronts etc.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "“I would have preferred to read a meta-analysis”",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The whole premise just reverted the biosensor field back 20 years, which has been my biggest single concern regarding this paper.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Despite promising a very general result this manuscript unfortunately does not deliver (almost) any of the things listed in the abstract.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Paper Strengths: None",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The turn of phrase 'reaching out into the world'; is again just a vague rhetorical equivocation that is meant to add a semblance of an intellectual air to the text, a rhetorical attempt at being in fashion, but it dissolves only in empty intellectualism.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Is this a joke?",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Indeed, the article as a whole shows a lack of sophistication and nuance that is diagnostic of the particular genre of thought pieces on the need for studying sex differences that it falls within",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "At least I say it to your face and sign my name",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "While I personally enjoyed this contribution, I cannot escape the sense that this is much ado about very little, to paraphrase Shakespeare.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I read the first 6 pages of the paper. Sorry, I can't finish reading this paper. I certainly will not recommend anyone else.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I also added back in the two lines on p.16 that you'd inexplicably deleted. If there's a reason for their deletion, let me know.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is a very weak paper trying to bend things to build a relationship that does not exist. Stating X is totally wrong and your data does not support that and no model can state this.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Strictly speaking, the manuscript shall be rejected in its current form if submitted for a journal.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is a confusing paper.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This was the moment when I stopped reading. Obviously the authors are not familiar with the research field.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The authors have not bothered to learn the first thing about the theories they are hoping to refute with ill-designed experiments and muddled rationale.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "If I never see another piece of writing started with these lines, it will still be too soon.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "If this was taken from a successfully defended thesis, as it appears to have been, then he should not have been awarded a PhD",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The title appears to me to be clickbait, and, as usual for clickbait, leads to disappointment.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Maybe the clarity of stating the problem, purpose, method, finding, conclusion, and recommendation could be tweaked. Otherwise, congratulations on an outstanding contribution.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This literature review is nothing more than a merry dance around the books",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The text is overly expansive, desultory, and often diaphanous, so that the raison d'être of an overarching theoretical structure is neither pellucid nor convincing.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The results look like a smorgasbord of data",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Despite the apparently impeccable arrangement of the essay, with headings and sub-headings, the progression of argument is not always transparent, often hindered by otiose wording.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Indeed, by the end of the paper, the reader is left with a feeling of 'so what now?'",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "If participants were recruited from a university, I imagine they would usually be 18-22 years old. Why does your sample range from 18 to 63? I'm a bit lost here.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The fact that the question of this paper has never been asked should, on balance, count against the paper.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This paper does not offer a revolutionary breakthrough.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Is this really a discovery or just the confirmation of math?",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I'm really sorry about this reviewer. If you'd like, I can get you a new one.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "References are incomplete, listing only year and not volume, page numbers, etc. The lack of attention to this detail is a pet peeve.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Large parts of the manuscript read now more like a Master thesis than a scientific paper. I hope that the more experienced co-authors - if there are any - can help with this aspect of style.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Do we need to clarify the meaning of 'all'?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "While an interesting concept, in its current form, the approach taken is fundamentally inadequate and flawed for almost all use cases.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "There is too much detail provided which is not relevant to the paper, or any for that matter.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I don't see much science in this manuscript.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I haven't read the word 'audacity' yet in commenting on my reviews, so that is a first.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I don't see how your approach has potential to shed light on a question that anyone might have.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It is a bit strange for me that authors have used Python for statistical analysis instead of SPSS or MATLAB as usual. Please, explain",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The paper could be considered for acceptance given a rewrite of the paper and change in the title and abstract.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The proposal is also poorly written and unfocused with only brief moments of meritorious thinking.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The scientific contribution of this paper - if there is any at all - is at best hopelessly insignificant.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "But there have been treatments along these exact lines that are uncited: [A fictional novel about a hypothetical war] and [an op-ed in the Washington Post].",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "So overall we do not recommend a resubmission, but can let you try if you insist",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This discussion might be better directed to a different audience, perhaps an undergraduate class",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "In my opinion, this is a fundamental wrong approach.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This paper makes no contribution.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The applicant does not address the broader impacts of the proposal, other than its potential benefit to global human health.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "My major concern to accept this work-in-progress paper is that these findings are not super interesting to readers in my opinion.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "But fundamentally, why did you bother?",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The proposal is also poorly written and unfocused with only brief moments of meritorious thinking",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This work is antithetical to the spirit of [research] and will impede potentially important developments.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Your discipline doesn't exist",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "However, bad language, weird sentences, half true statements and even nonsense statements continue throughout the draft, I refuse to review more of this draft until these language issues get fixed properly.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Publication of this paper will not advance our knowledge in any shape of form, it will just result in other researchers pointing out how bad this study actually is",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I have read this manuscript twice, which given the grammatical howlers in the Abstract would appear to be more times than it has been read by the authors.",
+    "context": "I have read this manuscript twice, which given the grammatical howlers in the Abstract would appear to be more times than it has been read by the authors. Given the lack of proof-reading and my concern over the methods used, I shall not comment beyond the end of the methods section, and shall comment selectively rather than exhaustively (which would indeed be exhausting).",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I am personally offended that the authors believed that this study had a reasonable chance of being accepted to a serious scientific journal.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Did you have a seizure while writing this sentence? Because I feel like I had one while reading it.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "While the authors do pick a good problem, that's where the quality of the paper ends for me.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I started reading this manuscript with much anticipation but my enthusiasm was short lived.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This result would be great if it were true",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This is a sin of omission!",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The result does improve the state-of-the-art, but it is not strong enough for acceptance",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The supportive tone of this review... took some effort.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I would advise the authors to go back to the drawing board and consider exactly what this paper is trying to do and do this well.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Yes measurements were made, but why, besides a teaching exercise, remains obscure.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The authors are amateurs",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "In any aspect that this paper is different from XXX et al., (20XX), it shouldn't be",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The first sentence is unfortunate",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper is very weak.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "When the reader is finished struggling through all the methods and results, he/she is left wondering whether it was worth the time.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "There is hardly any paragraph (even in the abstract) that is not messy, disorganized, confusing, that does not contain mistakes (some are quite embarrassing), redundancies, abusive shortcuts or discussions that sound absurd",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Frankly, she knows nothing about invasion biology or the Great Lakes and should stick with what she does know.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "My summary assessment of the paper is as follows: Introduction: Poor Background: Poor Methods: Poor Results: Poor Discussion: Poor Conclusions: Poor Overall assessment: Poor Recommendation: Reject Further Comments: Why was this submitted to a journal?",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The presentation of the paper is difficult to follow for a hard scientist and it sometimes reads as if it were machine generated.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Most part of 'methodology' is useless, most of paragraphs are inrelevant to the main topics.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Sometimes I am diplomatic and sometimes critical, but this time I am resolute. I fail to see the contribution either to physics or social science.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is a very difficult paper to review, and difficult - even painful - to read",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Our community needs to combat this sort of unreflexive pseudo-scholarship.",
+    "context": "XX is inserted purely for fashion, adds nothing, and reflects the authors' belief/wish that fashionable papers regardless of logic or content have a larger chance of acceptance. Our community needs to combat this sort of unreflexive pseudo-scholarship.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Perhaps what I have written is deflating.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I am sorry but this paper does not leave me satisfied",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I had no idea what this concept was until reading your paper, but your abstract wouldn't have made me want to read it had I not been a reviewer",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The experimental design is a bit funny",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I cannot make out signs of independent thinking, work beyond the state of the art, or anything ground-breaking.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This reviewer was a bit concerned about the results section given that it appears that participants in the current study were randomly assigned to one of three experimental conditions",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The problem with jargon is that any idiot can pick it up and have a go.",
+    "context": "claiming 'insights' that rarely amount to very much beyond the bleeding obvious. The problem with jargon is that any idiot can pick it up and have a go",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The results are as weak as a wet noodle",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The manuscript embarrassingly fails in addressing the declared aims.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The authors are actual fools and it would be in the editor's best interest to ban them from submitting to the journal in the future.",
+    "context": "There are two possibilities. 1) This paper is part of an experiment to try and determine how badly a research paper can be but still be accepted, or 2) The authors are actual fools and it would be in the editor's best interest to ban them from submitting to the journal in the future.",
+    "label": ""
+  },
+  {
+    "extract": "I am, frankly, underwhelmed by the revisions. Most of the responses sound smooth, but really just written to avoid serious additional work.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I do not want to see the paper again.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I was left with the impression that the lid had been lifted off a big can of worms, but that the worms had not been picked out for proper dissection.",
+    "context": "By the end of the paper, I was left with the impression that the lid had been lifted off a big can of worms, but that the worms had not been picked out for proper dissection. Maybe it is unfair to expect that this could be achieved, due to the excessive number of worms involved in the matter.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This paper is absolutely ridiculous. It shouldn't be published anywhere and the author should not be encouraged to revise.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Finally, I have substantial criticisms, in addition to the disappointment of seeing hoary old chestnuts",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Table X seems unnecessary given Figure Y. Indeed, Figure Y also seems unnecessary.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The English language ranks this manuscript among the top 5 worst manuscripts I have ever reviewed",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "There is no evidence to show this is the first paper to propose the idea.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The writing is not at school level",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "An exercise in feature manipulation, of the brainless kind",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I apologize for this but frankly some parts read like a report of a high-school student on a scientific experiment.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "There is no need to test these hypotheses. They have been tested a long time ago. It is in all textbooks.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This would seem to constitute the very minimum basic scientific requirement for attempting to publish a body of (unoriginal) data",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The entire paper reads a bit like someone who has searched around the social scientific research literature without much authentic understanding of social science, social scientific research methodology, or statistical analyses",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Which means that, as the saying goes, if their results are correct they cannot be new, and if they are new 'they cannot possibly be correct. Frankly, it is hard to say which is the case",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I am not convinced if any clear real value of this research.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This [sentence] construction should be reserved for police procedurals and bad Mafia movies.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The authors are perpetuating misguided generalizations in the face of substantial experimental data to the contrary",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "There are also other points that have to be addressed, but considering the current state of the manuscript, I do not think it is makes sense to go into further detail.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It is very lengthy, full of mistakes, irrelevant information, and completely fails to attract readers.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Why chase a gene in this ridiculous organism?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Future work: The authors' personal research agenda is irrelevant here.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Line X. The sentence follows a bit of a Yoda-esque grammar",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I just don't get the point of this",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I suggest you consult a competent statistical advisor.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It is more of a blog post than a research article",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The sum total is frustration with what I can only call cavalier treatment of promising material.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "With the appropriate revisions these results could provide a very limited contribution to the field.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I have rarely read a more blown-up and annoying paper in the last couple of years than this hot-air balloon manuscript",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This paper introduces tools to answer questions which it does not seem many people are interested in",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "In a nutshell, please cut out all the hype, show some integrity, and write a balanced paper.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The first problem is that the method - whatever it is and however it works - is insufficiently evaluated.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Since the paper is mathematically empty and, compared with the conference version, provides no new ideas or findings, in general, I see no reason why it should be published in a journal as well.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Figure 6. This figure is silly.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Various statements seem to be sweeping and inaccurate generalizations with little robust justification",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The manuscript reads much like an unrevised masters level paper.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "You do not use the empirical data for the analysis, but the empirical data uses you",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The candidate demonstrates no understanding of the subject matter and his proposal title is misleading. Furthermore, his career prospects are unclear.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Since the manuscript is so lacking in all aspects, I won't bother going through it in detail.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The author does not exhibit adequate acquaintance with the subject under discussion, the scholarship on it, the structure of logical argument, or the writing of English.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Publishable, but why?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I believe that the authors have done scientific work, but in the current form of the paper it is impossible to judge it.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The color rainbow is pretty, but largely useless.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The authors report results from pages 16-26. This section reflects what I would brutally call 'death by figures'",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I cannot possibly imagine what could have led the authors to believe that their paper was remotely interesting enough to submit for publication.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Usually climate studies do not show a good method for the proposed research. This is one of them.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is starting to feel like a book report",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "If the editor somehow decides to accept this paper, they risk permanently destroying the credibility of this journal and its entire editorial board.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Right now, there is zero rationale for the study and zero reason to read the study.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Details of how important these effects are are missing. Reference X is entertaining but inadequate in this respect.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It is essentially an opinion piece that editorializes shamelessly about the superior methods of a recent paper in the first person",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I have difficulties identifying the aim and added value of the present study to this topic.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The experiments are reasonable, but they fail the fundamental test of good science",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I regret to inform you that our journal will not be able to publish your work. We contacted meanwhile 16 (sixteen!) reviewers of which 12 (twelve) did not respond positively (the others did not answer our queries).",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Your proposed method should be compared with another method that introduced in a prestigious paper. [full review]",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Appears to be on the perimeter of meaningful investigation.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The rest of the Introduction is just as badly done as the first paragraph so I will not continue",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This article is on an interesting topic. Unfortunately there is no more positive to say about this manuscript.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The study is poorly conceived and inadequately conducted and the conclusions made by the authors do not necessarily follow from the results",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It reads more like a diagnosis confirmed by a set of examples",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Thus, there is nothing new in the manuscript that warrants publication in Science or most other scientific journals.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Recommendation: Publish elsewhere Comments: [none]",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It is safe to say that the authors want to see their paper published more than I really want to reject it",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The work is trivial, and there is no novelty in the work, the approach or the results. The authors do not solve anything and the implications in this context are quite possibly irrelevant.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I am sorry if I am missing something obvious here but this is not my area of work.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "First, the paper is for a large part incomprehensible",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The paper is presented as a rather undigestible and tortuous collection of disparate results",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Such a prestigious journal can surely make better use of its limited space.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The paper comes with proofs, but - at a first glance - they seem to be more cute than useful.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It is hard to imagine researchers of this caliber being unaware of a half-century the field x, especially as concerns the bulk of what they have done in this paper.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I was really looking forward to reading this manuscript, however this enthusiasm soon waned.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "You are trying to do too much and end up accomplishing too little. It is a collection of good ideas that do not add up to or advance to any meaningful conclusion.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I felt like I was reading a horror movie - the scene where our protagonist leaves the door unlocked and says \"let's split up\" to his/her comrades. and you know doom is surely going to reach our protagonist soon.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "That's not possible to do without mind-reading, and there's nothing in the Method section about mind-reading methods",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "And the X reference is a straight-up drive-by citation, adding nothing except whatever luster he adds to the authors' claims.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "By now, there are over 1,000 [articles on this topic], but these authors have not read a single one.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "How does [redacted theory] explain your results? Or really, your underwhelming results?",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "While this study represents a substantial amount of work, it is not all that clear why the work was done.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I wish I could explain what is the purpose of the manuscript.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It seems that the author is simply engaged in proprietary phrase coining - advancing a new term for a well-researched phenomenon",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The team has generated the kind of gaudy, brobdignagian dataset that makes it such a curious and exciting time",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "So many electrons worked so very very hard on this paper",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The discussion is inappropriate and the new content is generally poorly written",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "We invited 18 reviewers and after quite a long time, only one reviewer had agreed. That review is now many days overdue and we don't expect it to be returned. Unfortunately at this point we have to assume there is a lack of interest and we don't want to keep your paper in review any longer.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It just doesn't make sense.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "In a nutshell, I am not sure if the problem is indeed a challenge or just a fact that we have to live with, such as gravity or death, for which no solutions exist.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Moreover, it is unclear whether the effect is sufficiently important to warrant replication.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It is worth saying that I am not convinced that you contribute to the evidence base in this paper.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "That's not how science is done.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The authors conclusions not only contradict their own data but also the laws of thermodynamics",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I really don't like to be harsh in my reviews, but…",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "However I deplore the fact that this paper has been created at all",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "While I think there is good reason to have performed this work, it does make for unexciting reading.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Authors wanted to make title catchy but actually finished trivial title, a la 'Daily mail'",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "While the problem is a very important one for modern society, the topic and lessons are not of broad interest.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Line X; this is the only correct, sensible and interesting finding of the paper.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It feels a little bit like someone wanting to run a series of statistics.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Simply conducting the same analyses in a different data set does not equate novelty or impact to the field.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Are the '10 random reps' chosen at random?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The authors need to add a level of puzzlement to their interpretations",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "One wonders whether the analysis was an exercise in using a cannon to open an unlocked door.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This work is only a maths game.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Overall, I think this manuscript is a waste of time.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Moreover, it is very difficult to see the actual contribution this manuscript will have",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The abstract is intriguing but confusing",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I guess this proposal could be interesting, if you're interested in this obscure sect of biology",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I don't understand thermodynamics.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "A great deal of effort has been expended here, but to what end?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper is desperate. Please reject it completely and then block the author's email ID so they can't use the online system in the future.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The Discussion section of the paper is neither informative nor enlightening and is certainly theoretically questionably",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Cite newer, relevant references, especially those published by X (20XX), and X (20XX). Best wishes, Dr. X, Associate Editor",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Intermediary steps and the apologetics for [topic x] derived from an ahistorical cult and its author.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The team is very experienced. It [the paper] felt a bit less self referential than they often are",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Sorry for our long silence, due to some perplexity on our side at reading your manuscript.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I recommend the publication even if I am not impressed",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "If the author is comfortable having his/her name on this paper, then I won't stand in the way of its publication.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I am impatient with this vague assertion.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The length of this review is occasioned by the density of error and misconceived arguments in this manuscript.",
+    "context": "The length of this review is occasioned by the density of error and misconceived arguments in this manuscript. As a service primarily to the authors I have decided to actually try to convey a sense of the extreme nature of the problems encumbering this submission.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Unfortunately, I cannot recommend this paper for publication because its contents violate the laws of physics",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The authors are permitted to believe what they want to, but the data did not support 'important implications.'",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "However, the applicant seems to have run out of steam before he developed a detailed plan for the proposed research and then completed the proposal. This is unfortunate.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This book has more mistakes than a hound has fleas",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I did not attempt to understand Figure 2 because there was no motivation given for it",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It looks to be more of a chance for the authors to promote a product using a poorly constructed, non-replicable pilot study",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "In order to be able to publish this manuscript it need to be rewritten in the form of a scientific article",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Through a streamlining of the argument, meaningful references to existing literature and a restriction to the essentials, the manuscript may still be saved",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This sentence is so hard to digest it gave me reflux",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Several books that are cited but there is no evidence that they have ever been studied and understood.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It is difficult from this reviewer's perspective to even call these studies.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The take home message has to be extracted with significant labor from a punishing set of figures with multiple bar graphs.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Suggesting much but saying nothing of import, the sort of balderdash that is in the vernacular often compared to the waste of certain male ruminants.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "What, then, is the point of this manuscript, which presents no truly new data, methods, conclusions, or arguments? I would venture that it has no raison d'etre, and is neither novel nor helpful.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This may eventually be a cited paper.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Ugh. Read a book. This is grossly oversimplified, and not an appropriate statement for a scientific journal.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I would have preferred to read a meta-analysis",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This article describes [XY], a research project investigating methods for educational game design. The paper is poorly written. [full review]",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Even if other readers found it comprehensible, there is not even a proposed path to make [this model] into a modeling system.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The paper was so boring I fell asleep halfway through",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The system described in the manuscript is inherently confusing. Despite re-reading, its basic elements did not make sense.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "High was my expectation, and so much deeper was my disappointment",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "To my mind the question [the paper is about] is similar to to the medieval debate concerning angels dancing on pinheads. I do not think the paper should be published.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Your research paper is not motivated. There is no motivation behind your algorithm. Your results lack motivation.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "In other words: the referee thinks this work is stuck in the past. The referee would rather talk about the future - some of the senior co-authors were the future once!",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The results section is not great (boring).",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This made the paper very long and may bore the reader",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The study is largely descriptive in nature and mostly a fishing expedition. It will be great if they catch some interesting or unexpected fish.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The manuscript is a collection of fragmented and disconnected descriptive observations.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is clearly a submission that needs to be shredded, burned, and the ashes buried in multiple locations",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I think the audience will eat him alive. But I want to be there to hear it.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The current manuscript is deceptive and I do not recommend its publication.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "There is an over-reliance on sophisticated statistics at the expense of good old fashioned, scientific thought",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The title is the closest I've seen to manuscript clickbait",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This manuscript uses half of the available pages, and fails to explain what has been done, how and why",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This section gives the impression that you'll throw a handful of darts at a target and see what you happen to hit.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It seems like you are torturing the data until the model converges.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The chapter is too scholarly and too casual",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "(after having cited an author) one could call this name-dropping",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Unfortunately I was hoping for more.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Lots of hand waving in this Discussion",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "In the experimental part there is a lack of scientific by taking over results from reference literature.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I find myself disagreeing with most of this papers conclusions",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The writer of the manuscript is utterly ridiculous and appears to believe they will solve poverty through radio astronomy.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Having read through this a couple of times I have ended up feeling rather depressed.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The manuscript is too long for what the authors have to say. However, additional text is required as outlined below.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Figure 3e is fanciful, verging on silly",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Being the first is not the best motivation. For example, I could be the first one to jump of the SBE building with a triple back flip and no safety net. I'd be the first (I think) and it would even be quite spectacular (I'm sure), but that doesn't make it a good idea.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "They have addressed most of the reviewer comments, although their responses to a few of them remind me of Donald Trump.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The way the study is framed here and in the main body comes off as straw-mannish.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The abstract is ok in the context of a weak manuscript",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The paper is an old fashioned one",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I feel the results are insufficiently counter-intuitive to warrant publication in [fancy journal]",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "An alternative to counting sheep.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Most of the work is methodological rather than scientific, making it somewhat boring.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The underlying science here is quite interesting, but the presentation does its best to disguise it",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper is about combining inflexible specifications in a flexible way.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The investigator is in the top 50% of his field",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Focus on limitations, because they are many!",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The paper descends into nonsense, never to return, on line X.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It is at best of little value and, in the worst case, irrelevant and offensive",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The scales appear to be not divided into quartiles as stated, but rather are based on the distribution of the data (into quartiles).",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I find the title and the main premise of the abstract confusing and illogical. [key concept X] has the logic of a Monty Python sketch",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The data you have are weak, based on very small samples, not clear that they were analyzed properly, and are based on measurements taken in the wrong medium for the organisms. I see little of value in this paper.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This manuscript is not publishable in a reasonable sense",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Is 'bisexuals' referring to the entire sample or those who identify solely as bisexual?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "You should consider consulting a competent statistical adviser.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The correlations are not that strong (e.g., p = .022)",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This work is not an easy topic.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The first problem in the 'Theoretical Analysis' section is trivial and requires no analysis, as any sensible schoolkid can identify its solution.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "... incoherent babble of unsubstantiated overstatement.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The supportive tone of this review... took some effort.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The biggest problem with this manuscript, which has nearly sucked the will to live out of me, is the terrible writing style.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This is a paper struggling not to die",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This manuscript is obviously not suitable for publication in high impact factor journals.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Pity about the main thesis.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "And finally comes the conclusion, which is the intellectual equivalent of bubblegum.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This is a well-intentioned but naïve and unscholarly presentation of a point of view that is not well-supported by evidence - a polemic, not a review",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I really want to like this study.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The citations of those two writers are cursory, almost impressionistic (in the negative sense of the term).",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper is so bad I cannot even reject it!",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The novelty is my most concern",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I find this submission confusingly and not always grammatically written. The aims and objectives seem rather muddled. References are rather sparse.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The results are new but were predictable.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "There are numerous problems with this paper, starting with the title.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The authors should take the time to thoroughly refine and revise manuscripts before they are sent to innocent reviewers.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The paper is overlong, very verbose and contains unnecessary repetition.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It would be wholly inappropriate to randomize living people to an intervention.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Ah-now I see a glimpse of promise in this paper",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I'm a bonehead so maybe I missed this?",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Reading this paper, I am struck by the elegance and clarity of the writing and the ideas. I found myself thinking \"such a simple and obvious idea — why didn't I think of that?\"",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "There are a bunch of other things going on that could be spuriously related.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "My disappointment when finding flawed analyses, conclusions, and terminology [..] was therefore substantial",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It is rather clear that the paper is incomplete and hastily submitted.",
+    "context": "It is rather clear that the paper is incomplete and hastily submitted. Note that you failed to provide the contribution number in the acknowledgements. The paper is NOT COMPLETE'",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "In the list of authors, one wonders whether these authors read the manuscript",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Sorry guys, I'm throwing in the towel.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This lack of familiarity with the literature is admittedly a bit unnerving, but hey that's what peer-reviews are for",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Nobody in their right mind would ever suggest such a model",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The authors avoid making mistakes in the analysis of the data by not making any.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Probably switching to Bayesian stats will be too difficult for many scientists and especially students in the less intelligent fields (e.g. psych)",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I perused this manuscript while in the hotel prior to a friend's wedding. I was suspicious that a state of relaxation had influenced my enjoyment of a paper on soil formation; so I read it again, this time squashed between two large people on the delayed flight home, and still enjoyed reading it.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The original study was published in PsycScience. This is just some work by a grad student. Reject.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Not now, not ever",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It is adequate only as a light topical treatment for a broad audience.",
+    "context": "In my view the manuscript provides a relatively superficial summary of the area which lacks any attempt at interpretation or novelty. It is adequate only as a light topical treatment for a broad audience.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I find the author's writing to be very undergraduate-like.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "In summary, while I believe the work to be valid, timely, original and relevant, I am unable to see in what sense this work accords to the strict journal's criteria.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "In my opinion they are overly reliant on statistical analyses and fail at times to actually see if the observed data agrees with the statistical evaluation.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper is too difficult for a journal on Astrophysical Fluid Dynamics",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is a disaster. I could continue, but you see my point. You do seem to have a story in mind, but you do a poor job at presenting it.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Can you explain this part a bit further, but without going into detail.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I concur with the reviewers that the methods are insufficient and thus the conclusion are totally overblown.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The paper is definitely exploratory, but probably not of interest to people other than the author.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "There is a very interesting story to be conveyed in this paper. The problem is that this interesting story is hidden behind layers of mud, and it is obscured because the paper is poorly written and badly organised.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I do not have the background to assess the accuracy or to detect errors in the equations but I do not agree with this.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Perpetuating the recognition of this as a valid species in the face of irrefutable evidence is dilettantish and scientifically unacceptable",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The authors are also treating what might be called a 'boutique' version within a model that is already considered by many to be a 'boutique' model.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The authors should discard the data and collect it again properly.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It is always rather pleasant to recommend that a paper be rejected.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I urge the authors to not publish this article anywhere, as it will impede the progress of scientific understanding",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Some papers are a pleasure to read. This is not one of them.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I was originally very excited to review this paper, since such a bridge would span uncharted lands - here be dragons! High was my expectation, and so much deeper was my disappointment",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Why exactly this task? I can think of a zillion other cognitive tasks",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I am concerned that the survey data for this report were collected in 20XX, 15 years ago.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This manuscript was neither enjoyable nor informative to read",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It's like you sat around and dreamed up ideas, except they're just castles in the air",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I have reviewed many manuscripts in my career and I have never seen so many repeated mistakes of this type.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "As it is often the case with conceptual developments, most of it doesn't make a lot of sense, in the end",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper is baffling [...] In particular, I have not looked at all at section 2 of the paper",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Written in parts like an experience track paper, minus the experience.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "My first concern is that I don't get it.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The beekeeping example also fails to convince. There is no discussion of bees' actual lived experience.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The overall tenor is disturbingly glossy and pretentious given the gravity of the topic",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This looks like a work of pure fantasy.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "There are far too many typos and grammatical mistakes. I started to correct these but got annoyed.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "In addition, I would suggest either activating the spellchecker on Word, or keeping the cat from walking on your keyboard. I think one of your words was previously employed as a Thunder in 'Finnegan's Wake'",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I now turn to my best guess about what the authors might be doing.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The following discussion seems to ignore this major flaw, which turns mere arm-waving into Olympic-level calisthenics",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This paper was authored by a keen blogger and his colleagues. The paper perhaps reflects this informal approach, to its detriment.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Use of words like 'performativity' (is that a word?)",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It is very well done, but sits somewhat in isolation from other schools of thought. It is - and I mean this with no disrespect to the author - a sort of echidna or platypus of a paper.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Research method is very important for an academic study; however, the reviewer cannot accept a paper without hypothesis, validity, reliability. [full review]",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I would drop the first clause in the paper title. It does nothing other than degrade the scientific integrity of the work.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I recommend the publication even if I am not impressed",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Quite frankly, it seems that the technical language is used more to frighten and take power over the reader rather than to facilitate the reader in his task, that should be to understand the results of the work (if there are any)",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "These snotty kids in quantum information",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I would very much have liked to read the article promised in the abstract.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Overall, the superheated sense of justification and self-advertising on display here are simply demeaning.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The conclusion drawn by the authors seems self explanatory and does not require any validation through the presented work",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It will be a fantastic work if the authors could deeply presented the dominating of study discussed in detail and less overstaffed on the majority of studies discussed, which may give necessary details in tables to show their similarities or differences, as well as, advantages or disadvantages by your own letters.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The reported mean of 7.7 is misleading because it appears that close to half of your participants are scoring below that mean",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I don't know what to 'do' with this.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Bad, very bad.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is madness, frankly, almost regardless of how it was implemented.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This left me somewhere between scratching my head and pulling my hair out",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "If you aren't going to make to the effort to understand, then you should just give up",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The map on the article is entirely unscientific. The data itself is also very dubious.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "You need a comma here. Do they not have commas at your institution or do they just cost a lot?",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Your content is stellar, and your writing is excellent. However, you should consider hiring an editor for subsequent revisions before submitting again.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Is this not the most frightening finding of all?",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "By 'sex' you mean gender, and not sexual behavior?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is a long and tedious manuscript",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It is unclear how this would advance the field beyond providing additional, previously unknown information.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I can see that the manuscript has archival value",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This was one of the least interesting papers that I have read in quite some time.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Figure 1. What does “Min” in panel c stand for?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is (I'm sorry) utter nonsense.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The ms comes over very much like a group of old wise men sitting around mulling over the terrible state of the world, and opening their hands and saying: well, what can we do about all these terrible things around us",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Lots of work, effort, but no real science.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The paper does have some moderately interesting results. But by the time I had gone past Section 3.2, I lost interest because there was nothing that took me by surprise or wonder.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "There is a lot of terminology flung around such as 'false negatives', 'false positive' and 'median', 'first quartile', 'third quartile'",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "People have real issues and I am not at all sure that this one deserves attention.",
+    "context": "I think there is a general problem with the overall goal of this study and area of research. This seems to be making data usage a critical thing people should be paying attention to. People have real issues and I am not at all sure that this one deserves attention. They have real concerns like, are they going to lose their job, where should their children go to college, should they encourage their elderly parents to move into a retirement center.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It appears that publication in any form would be premature at this time.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Often sounds like a precocious high-school student who is trying to show off how clever he is",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "There is so much that is wrong with this paper that it is difficult to know where to start",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Add statistical support!",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is a potentially interesting problem. Yet, not all potentially interesting problems are useful, such as this one.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "STRENGTHS: none.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "To Review of the article was therefore a challenge which I accepted. In fact I regret this decision, at least to some degree.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It reads as if the author were giving a lecture and wandered off point to tell an interesting story.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "You were either in a rush or you do not care too much about getting your paper accepted",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "No respectable biochemist would be seen in the same county as these data.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Is 'Tartarstan' a magical land where they make all the world's tartar sauce? If not, I can only assume the author is referring to the Russian republic of Tatarstan.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The author gives the impression of having had some mathematical training.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The results are obvious. In fact, so obvious that perhaps no one has bothered to write them down before.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The biggest value of this paper lies in the fact that its pages are bound together.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Table 5 is a beast. I have no idea what it is trying to say because it terrifies me",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The paper is not well written. It most presents itself as a long line of known definitions and theorems,but I am no expert in these matters.",
+    "label": ""
+  },
+  {
+    "extract": "I'm sorry, this topic is just not very interesting",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The work that this group does is a disgrace to science",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I have started reading this paper with great interest, but as I progressed in reading my interest has decreased significantly.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Given the way the paper was structured, I felt I had to read most of it.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "You're really funny.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "For a section on thought, very little seems to have gone into it.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I also do not feel that the lead PI is qualified to undertake this work, or more accurately, that she should undertake this work;",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The figure is really not needed. Were I to be shown this by a psychologist, I suspect I would hire a replacement",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The analyses are too statistic",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "So the paper, which I was initially excited to read, ended up just making me mad.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Young and inexperienced researchers should never be placed in a position of subjecting themselves to the painful rigors of critical reviews without guidance prior to submitting.",
+    "context": "What is disturbing is that the author was not adequately supervised or otherwise assisted by faculty at her institution. They failed her completely in providing oversight and input. Young and inexperienced researchers should never be placed in a position of subjecting themselves to the painful rigors of critical reviews without guidance prior to submitting.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Comment 19 I am not sure why there is a full section about limitations, this in itself says a lot about the study.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Despite all my efforts I failed to understand what the actual focus of this paper is",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The findings are not novel and the solution induces despair.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I am personally offended that the authors believed that this study had a reasonable chance of being accepted to a serious scientific journal.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It is early in the year, but difficult to imagine any paper overtaking this one for lack of imagination, logic, or data—it is beyond redemption",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I've never read anything like it & I do not mean it as a compliment",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It amounts to story-telling",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The enormous and overwhelming -not to say pathetic- admiration, even adoration of the author for her subject is barely acceptable anymore for a modern biography.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Was the white noise random?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I recommend acceptance, provided the editors are willing to stretch the standards for publication a bit",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "To me the question is uninteresting",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "In the course of this paper many stones were thrown but, unfortunately, no birds were harmed.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Fuck you.",
+    "context": "The journal editor stated that our manuscript was rejected. We were shocked that the reviewer's comments read “fuck you” (handwritten on a torn strip of paper scotch-taped to the editor's letter to us)",
+    "label": ""
+  },
+  {
+    "extract": "The research team cooked up a great filet mignon. Instead of mushrooms and an exquisite French sauce, we got American ketchup.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The peaceful atmosphere between Christmas and New Year was transiently disrupted by reading this manuscript.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I want to vomit; I can't believe this paper was submitted.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This is not a paper. This is part of... something. It cannot be reviewed and should be rejected right on.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The writing and data presentation are so bad that I had to leave work and go home early and then spend time to wonder what life is about.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It reads like papers often do when they are written in LaTeX. Reject.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Unless the authors performed some clever pagan ritual before euthanizing the animals I would use 'killed' (or 'euthanized') instead of 'sacrificed'",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I started to review this but could not get much past the abstract",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I found the use of the evolutionary theory problematic. This is a highly contested theory and the authors did not strongly justify their decision to use it, nor attend to some of the major flaws of the theory.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I now have had a chance to look at this paper. I think it is a bit of a joke.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Didn't like this one",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "They show they can account for 20% of the variance. No wonder. The usually accepted level is 50% to be useful.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The authors use a log transformation, which is statistical machination, intended to deceive",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I have read this paper several times through, and I have nothing to say in its defense.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "What is a 'systematic' review? I have never heard of an unsystematic review.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "You aimed for the bare minimum, and missed!",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This article reads like the work of a reasonably competent undergraduate.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This looks like a very early draft",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The reported mean of 7.7 is misleading because it appears that close to half of your participants are scoring below that mean",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The writing is often arrestingly pedestrian",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "presumptuous, ignorant and downright dangerous.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This paper reads like a woman's diary, not like a scientific piece of work",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Limited scholarship, flawed design, and faulty logic engender no enthusiasm whatsoever",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "If you want to solve a puzzle you could just do sudoku.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Find your inner nerd — it must be a big part of you — bind and gap it and then dump it in the ocean tied to a large rock.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "While it unfortunately doesn't make for a flashy title (which the authors like more than British tabloids do), there is a simple alternative interpretation of their results",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I don't believe in simulations",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Did all 5 authors say, 'Yes, this is a piece of work I am proud to have my name on?'",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It (paper) has a kind of self-help quality to it",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The authors should either retract the manuscript or completely revise it after completing the study and by following common scientific standards",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "There is no point in commenting on the statistical overkill in the submission. It simply should not have happened. It should never happen again.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "No new insights, no important question addressed, no problem solved.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Maybe the authors should cite a reference intended for non-mathematicians (e.g., Burnham and Anderson 20XX) instead of Akaike (19XX), which I doubt that they have read and understood.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "You have put in a lot of effort answering a question that should have never been asked",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Sprinkled here and there are some things, also taken from his readings, that are more or less correct. But it is all very confused.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It is clear that the author has read way too much and understood way too little.",
+    "context": "It is clear that the author has read way too much and understood way too little. Many of the most serious errors are more or less just copied out from what he has read, so it is hard to know how to deal with such cases. Sprinkled here and there are some things, also taken from his readings, that are more or less correct. But it is all very confused.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The paper failed to make the reviewers more than semi-excited",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The title of the paper indicates that the study was an RCT, but was it?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "You need to learn how to think inside the box and stop smoking whatever it is you're smoking'",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Why do you have so many tables? Did you go to Ikea?",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "In my feeling, no attempt has been made to create a coherent manuscript. The repetitions throughout the text and other deficiencies are so obvious that I suspect that none of the authors had ever read it from the beginning to the end.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "[The methods section] reads more as if these explanations are put in to guide the authors themselves",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Given the dodgy sampling technique, one could and should wonder how useful it is to include a variable with so little explained variance",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The manuscript in the present form is not a review article but is rather a number of research papers stapled together.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The whole paper reminds me of a paper of a couple of years ago, which I didn't like.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The data as presented is not very convincing, even to a believer.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The research questions are vague, which makes them uninteresting",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I am sure that you would find what you expect, but I question its value as research",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I don't think this study would add anything to either theory or practice",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Let me expand, using an analogy.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I would refrain from using enumerations in your paper and instead encourage you to think about the deep masculinism that comes with",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "'Hypothesized' is such an ugly word",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I don't know what the heck the red highlighted text is supposed to mean and left it as is.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The work that this group does is a disgrace to science",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Something is missing.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is depressing! So much work with so little science",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "You know there is something important there but the language is so inaccessible that you cannot make up your mind if they are trying to hide something or they actually think that is a good style of writing.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This is an interesting paper but it is not relevant",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is all science done by wishful thinking.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The overall value of this manuscript is not so much that this is novel, groundbreaking research as it is a demonstration of opportunistic sampling and analysis.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The peaceful atmosphere between Christmas and New Year was transiently disrupted by reading this manuscript.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Currently, the impression is that this was simply another piece of research/consultation.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This application for a postdoctoral fellowship has few strengths other than the applicant's dogged and stubborn effort to do studies he conceptualized much earlier in his career and for which he has struggled to find a home.",
+    "context": "This application for a postdoctoral fellowship has few strengths other than the applicant's dogged and stubborn effort to do studies he conceptualized much earlier in his career and for which he has struggled to find a home. ... His letters of recommendation contain, at best, faint praise and mainly focus on his stubborn determination to pursue his long-term goal.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Didn't like this one",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Do we really need concepts and theories to discuss inequalities among young adults?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Based on theoretical considerations I don't see a reason to perform these experiments.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "They show they can account for 20% of the variance. No wonder. The usually accepted level is 50% to be useful.",
+    "label": ""
+  },
+  {
+    "extract": "Please also consider making the submission looking less like an advertising booklet rather than a research paper—at least, try not to mention the XXX system in every paragraph.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The paper raises the suspicion that the author has not been trained as a historian",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "There is essentially nothing unexpected, although the central observation of [..] is an unexpectedly large and important effect.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This seems like a fishing expedition.",
+    "context": "This seems like a fishing expedition, please explain why the parameters tested were use for correlation testing? There should be some rational behind all of this, please describe. Figure 5, unclear what is on the y-axis???? Please specify.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "[name of scientist]'s conception took place when his mum and dad made him.",
+    "context": "What do you mean by [name of scientist]'s conception? Don't you mean ideas? [name of scientist]'s conception took place when his mum and dad made him",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "When Michelangelo finished his masterpiece on the ceiling of the Sistine Chapel, did he also try to sell the scaffolding as a separate piece of art?",
+    "context": "I see this article as a short distillation of someone's project notebook. When Michelangelo finished his masterpiece on the ceiling of the Sistine Chapel, did he also try to sell the scaffolding as a separate piece of art?",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Findings are presented in an anecdotal, descriptive style that I can't interpret.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Not only does this strike me as the worst kind of postmodern legerdemain, but if true the statement would transform ethics into a hopelessly muddled enterprise.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This study has the same problem with focusing on a garbage-can group that is not uniformly sampled and has no evolutionary cohesion.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Im probably misspelling things in these sentences which may add to the humor. ;-) hard to use this kezboard correctly",
+    "context": "Having edited many things that have come from Germany, Im in Germany now, Im impressed with the quality of English. Im probably misspelling things in these sentences which may add to the humor. ;-) hard to use this kezboard correctly",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "There is potentially an interesting essay to be written about [x], but this one isn't it",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The fact that something has not been studied is not, in itself, a reason why it should be studied.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Reading this made my brain melt. Very true though.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The description of the participants is too cryptic.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I have followed the work of this group for the last few years and know that their submitted work is usually well polished. That is not the case for the present paper.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I showed this paper to my nurses and they agreed there was nothing new reported here.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The figure in the supplementary material is a mystery to me. Where did all this sound energy go? It defies the basic laws of physics.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is a pretty trivial study, sample size is suspiciously high, and the effect is tiny at 5% percent difference (who cares if it is significant).",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The authors should refer to the super interesting article on this topic in Wikipedia.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It is not hard to develop this method... I could write code for this on a rainy afternoon.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "To be frank, it was boring to read once one got past the beginning. This is rather ironic given the paper is about humour.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "One gets the feeling that the references were included for the sake of having something to refer to.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Also, the manuscript is very tedious and reads like an unedited thesis chapter.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Though less enthused about manuscript's novelty, this reviewer does admire the hardworking of your group.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Also, the authors criticize the approach of [citation of XXX] shortly before introducing their own approach. Seems somewhat hypocritical to me.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The introduction, general approach and data analyses are somewhat anachronistic - this study would have been really interesting 10-15 years ago, but now it seems quite out of date.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The ideas behind the project seem to be a combination of wishful thinking, poor chemical insight and limited understanding of the techniques involved",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Maybe because it's a graduate student conference the author decided not to put any time into writing a quality paper that would be accepted in an academic journal.",
+    "context": "This is an outline of a paper, and not a fully-thought, well-organized, thoroughly-discussed paper. Maybe because it's a graduate student conference the author decided not to put any time into writing a quality paper that would be accepted in an academic journal.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I found every single reading of every theorist mentioned in this article seriously wanting. I will highlight the three most egregious because this review is already getting quite long.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This piece... shows no real understanding of history at all.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Instead of a summary of the intellectual issues addressed, we are given a series of bland recommendations, the sort of banality that civil servants write for their masters' speeches.",
+    "context": "The final section illustrates the paper's poverty. Instead of a summary of the intellectual issues addressed, we are given a series of bland recommendations, the sort of banality that civil servants write for their masters' speeches. It has no place in a serious academic journal.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This is a pointless paper. It offers neither interesting new data nor cogent explanation",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Data is presented as though it were reliable observation when it could equally well be described as unwarranted slander",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The introduction seems pointless. It offers some odd views",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Your piece is very well written and researched. I think the is interesting, but not particularly useful.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I do not believe or trust the data presented or the underlying thesis.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "More importantly, the author needs to slow down the process of research, reflection, and logical argumentation.",
+    "context": "That run-on, one sentence paragraph is perhaps the most egregious example of how the author needs to take more time and slow down structure at the grammatical level. More importantly, the author needs to slow down the process of research, reflection, and logical argumentation.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This is where the real problems start",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This is an area ripe for future research.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The stimulus is artificially produced and therefore irrelevant.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "There are many stylistics phrases to tidy which you can find yourself",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The concluding 'takes a village' sentence is also a bit unoriginal.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper is conceptually unclear, and the causal argument/hypotheses are muddled. In short, it is a mess. I stopped reading after page 7.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "There is a lot of terminology flung around here that is insufficiently explained. What exactly is meant, for example, by 'false negative' and 'false positive' rates? 'median, first quartile, and third quartile'?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This interesting effort reminds one of the biblical tale of trying to extract water from a stone in the desert; from this metaphor, you may gather that we conclude that the effort did not yield useful data.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Default settings'?? Huh???",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Have you no command of the English language?",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "You make the reader feel uneducated",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Since this is a model formulation paper, there does not need to be a Results section, but if there were, the paper would be easier to follow. There really is no formulation of a model",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "You haven't reflect all relevant studies.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I appreciated how the author seemingly had in mind that a goodly percentage of the readership are not native speakers, so anything too academic or erudite might be lost on them.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The main problem is that it does not fit the intuition about what should work.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "In the end, even after writing a summary of the argument, I am not sure what is the thesis of the essay (or whether there is one) or how and why its parts are connected if I disregard any private knowledge of the topic",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This submission looks more like an advertising booklet rather than a research paper.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This result would be great if it were true",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Unfortunately the manuscript is not well structured and the English is very poor. Usually I would attempt to improve this, but in this case the entire manuscript needs to be reworked - starting with the tittle.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper must be rejected, because the work it describes is clearly impossible.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I retain in my files an anonymous referee's report on an earlier paper that relies heavily on this item. The report stops just short of urging revocation of my degree",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I want to vomit; I can't believe this paper was submitted.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "‘This is a misleading paper, badly executed and negligently written'",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This is a terrible sentence. It has so many different things in it and not enough punctuation.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "There is no research methodology, no data, no model, no significant analysis and no conclusions which arise from the study",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The description of sampling technique is too long and boring!",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Nothing new or ground breaking is discussed in this tutorial",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It is clear that this manuscript will not win a beauty contest. There are still many awkward sentences that make me feel like listening to someone that scratches a glass plate with an iron nail",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The authors must know the difference between scientific research and 'news clip' for the Sunday newspaper.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This information is utterly useless and would not worth any publication at all.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "These theoretical results have not been verified experimentally. Therefore, they are wrong",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "When the author - and I'll refer to you as the author despite the effort you have put into ensuring that I know who you are - writes that there has been no new models in this area for 20 years, [lack of relevance] is the reason.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper has about the same relevance as a paper in astronomy which places the earth as the centre of the [universe] - while it can be made to look plausible, the basic premises is WRONG.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "[H] did a few sloppy experiments and attached his name to the great pioneering work by [P]. He should not be mentioned.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I still find this to be a very difficult paper to read, with many possible alternate explanations for [paper topic]. But it would take me a long time to try and figure this out, so I am approving publication.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Considering by the end of the paper I had no idea what was being said, I don't believe the paper was successful in its argument. In fact, it felt like the author was merely saying the same thing over and over again but with synonyms.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Although there are obvious differences in male/female ratios between patients and controls, the failure to find differences between males and females may be a type II error",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I was somewhat disappointed after reading the MS; I was initially expecting some lighting hit but nothing really happened in the end.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I could not find any passage in the MS that would explain to me what is the exact novel idea, proposal, argument or hypothesis",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The proposed research requires a set of knowledge related to a*, b*, c, d, e*, f*, g*, h* and i*. The candidate has not demonstrated to me the required knowledge in any of the starred areas. Even in the other areas I am not sure that her knowledge will be deep enough.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The paper is overlong, very verbose and contains unnecessary repetition.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The interchangeably use of evaluate and validate is a concern because it is not clear if authors know the difference between these two 'verbs'",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I recommend the publication even if I am not impressed",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Please please please with sugar on top remove sentences that sound like Hegelian light bulb moments while not meaning anything in the context of your empirical study.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Nothing changes in our collective research programs as a result of this work. Still, the work is well done and needs to appear somewhere in the literature.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper contains neither theory nor research.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "There are not enough headings.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This proposal left me cold",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Concerning the discussion, again the merits of the work are downplayed to a point that it's almost pathetic!",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The accompanying simulation movie is neither interesting, nor particularly beautiful.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Presented paper has 13 pages and 26 adequate references. The paper seems to be very interesting.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I would suggest that you do some homework and redirect this work to an actual new and novel and mechanistic work and test it against real world data",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "proposal language is frightfully unclear.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I stopped reading here.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I found the paper a challenge to evaluate, expecting some profound methodological or theoretical insight. Yet none appeared to be forthcoming.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Your footnote is unnecessary, and indeed confusing. Where did you get the word “oftentimes” from? We are in the 21st century now.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It would be charitable to call this a comparison of apples and oranges. It's more like steak and bicycle.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I counted 15 uses of 'clear' or 'clearly.' That's one per page. 'Clearly' the results aren't as clear as the author would like them to be.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I've never read anything like it & I do not mean it as a compliment",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "So, in summary: the paper is oblique to the entire current literature, it fails to relate such investigations as it reports to the current literatures of the questions to which it claims to be relevant, and it actually acknowledges (in its own last sentence) that the history of the field has simply passed it by. It is as if the grant that it acknowledges for support was awarded in 1990 instead of, oh, 2010 or so.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "In the interest of being helpful, my suggestion is that the authors go back and review what is involved in the scientific method. An essential step in the scientific method is posing hypotheses and/or asking questions, and that step is completely lacking in this study.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Looking at the general poor quality of the paper, I'm surprised by the list of the co-authors",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This code sample cannot be adequately described without the use of strong language.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The author is tilting at windmills.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The authors presents a flurry of statistics, but they do not explain why or how those are relevant to the study.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "A good deal of effort has been expended here, but to what end?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I have three main objections to this paper: it is self-contradictory, it is functionally obsolete, and it has been submitted to the wrong kind of journal.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Unfortunately, it has to be remarked that papers such as this, lacking any knowledge of the basic concepts of astronomy and physics, should never be published in any scientific journal with referees.",
+    "context": "the conclusions of this paper are then groundless since they are based on this trivial but critical misunderstanding. Unfortunately, it has to be remarked that papers such as this, lacking any knowledge of the basic concepts of astronomy and physics, should never be published in any scientific journal with referees.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The use of the word “surgeries” to mean “surgical procedures” instead of a surgeon's office is a linguistic atrocity of a magnitude similar to “irregardless” or “I could care less",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The paper is ill-informed and poorly argued. It is not suitable in my view for this or any other journal.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper does not contain information that could make a scientific proposal.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "We note that you may well have completed an interesting study with an appropriate research design and methods but the manuscript in its current form does not convey that.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I am sympathetic to what the author is trying to do here",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It is not clear what the author wants to accomplish.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This whole paper is wildly speculative and needlessly convoluted.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "revise this paper at your own risk",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It was hard to bite myself through, but in the back I found some meat.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The authors merely used somewhat bigger guns than previous studies and generated nothing but more smoke.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Perhaps my greatest criticism of the paper is the tendancy of the authors to make an argument and then to almost immediately contradict themselves repeatedly.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "First, unless my statistics is failing me, a less than 1.0 SD is not significant.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The text is at several places marred by conceptual messiness, careless reasoning, sloppy phrasing and inadequate acquaintance with the relevant literature",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "In addition, your figures are provided at 72 dpi, which is fine for children's games, but professional quality images require 300 dpi. Also, the images should be cropped to the actual image area (not embedded in a sea of white space).",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I really want to like this study.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Using the question in the first paragraph of the introduction is not functional in my opinion, as are the words 'inner workings'.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper is fluently written and meticulously researched. I do not recommend it for publication.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The regression analysis is rubbish. Let's see what happens when you do this properly.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Neither research nor science",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The whole piece presents a non-argument. It simply confirms something self-evident and dresses it up as remarkable by building up a straw man that is duly demolished.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Poorly connected and thinly reported anecdotes are reported as though they represent detailed and searching ethnography, and then jargon-riddled assertions are made as though the meagre data substantiate the claims.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Are you kidding?",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It is difficult to see the merits of this proposal, and it is doubtful whether the author has the necessary command of primary and secondary sources to contribute anything to this area of research",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Unfortunately the paper itself is full of so many fundamental misunderstandings, I don't even know where to begin in criticizing it.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This will never work: Negative reviews of famous, ground-breaking papers.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Clearly you can tell that I have become distracted by the style of reporting results. I have in fact given up trying to find the real biological trends in the results.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I invite the authors to provide compelling, coherent, and quantitative data.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I think the N-mixture modeling should be abandoned: it is clear that they [the authors] do not understand this class of models",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This paper is so bad, it would take an entire 20 page paper to describe all the problems it has. And even after that I'm not sure it would be worth publishing.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "However, in my view the research question being asked is not very clear, the treatment of the dataset is not very thorough, and the conclusions are rather trivial or even self-contradictory.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "DO NOT have your heroes set the villain on FIRE. It's actually considered a war crime, and it is a very gruesome experience leaving horrific scars and affecting health for the rest of your life. It tends to make the heroes look like major arses.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This sounds nice, but in fact it is vague. There are many instances of this kind of nice-sounding vagueness.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The manuscript can be much kinder to those who are unfamiliar with, or not interested in, the issue.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The opinion expressed in the MS is highly biased and patriotically motivated, and is not suitable for publication in this journal.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Although this is a well written paper, it reminded me more of an essay that someone might write for a lit theory class rather than a generative scientific review.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I am pretty sure that there are a number of mistakes, but I gave up pointing out them all because even the author apparently doesn't consider this manuscript as a good scientific presentation.",
+    "label": ""
+  },
+  {
+    "extract": "…this paper is extremely lengthy and tedious with respect to its importance and relevance.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I hope you update soon, because I really wanna know what happens next, and how far you are willing to take the potential deconstruction.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I believe that there are important questions in this area, questions that have intellectual merit, but the PI has not found any to study here",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This piece offers nothing new... is poorly written, analytically weak and repeatedly inaccurate.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The paper brings to mind the Mark Twain quote: 'I didn't have time to write a short letter, so I wrote a long one instead.'",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The paper is grossly over referenced, and reads a little like a student trying to impress a supervisor that a lot has been read, rather than a mature and parsimonious use of citations. The conclusions are hardly world shattering.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This is unfortunately borne out all too clearly in the author's self-presentation on his website, whose home page is inappropriate if not offensive as a professional introduction.",
+    "context": "[The manuscript's] tone is occasionally too casual, a bit too winking in a David-Foster-Wallace-ish kind of way. This is unfortunately borne out all too clearly in the author's self-presentation on his website, whose home page is inappropriate if not offensive as a professional introduction.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Based on these my recommendation would be that the present manuscript cannot be published in this or any other journal.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Startlingly naive and jejeune. Obviously a poorly tailored master's thesis.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "A blizzard of extraneous data external information should be culled.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This last version is riddled with redundant information and circular phrases.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The paper is blithely silent on the kinds of issues that occupy yards of library shelf-space, [and goes] well beyond what is warranted by the data.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper is definitely not suitable to PNAS, or, for that matter to any other journal.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Firstly, the framing of the research question is entirely flawed",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This article reads like the work of a reasonably competent undergraduate.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Not now, not ever.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I certainly agree [with your point] here but please do not justify it with all the selectivley chosen and largely incorrect arguments above",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is a rather pedestrian treatment of a popular and well-reported topic",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Too mathematically inclined.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Despite my negative overall rating I encourage the authors to continue their research in this area but also suggest reading How to Design and Report Experiments by Field and Hole beforehand.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is rubbish!!!",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Once I penetrated the pigeon English, I found very little substance underneath.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The author has re-invented lukewarm water. This is all naive philologising.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I am not very excited about this. There must be better ways to spend your money.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Some idea of strategies to define general populations for studies might be helpful both to the reader and to help the authors avoid their meaningless generalities.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Sorry for our long silence, due to some perplexity on our side at reading your manuscript.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I do not trust the data or the underlying thesis.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This paper still reads in places more like alternative fan-fiction than scholarship.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "There may be a good paper crying to be let out of this manuscript but if so, it is hard to know.",
+    "context": "There may be a good paper crying to be let out of this manuscript but if so, it is hard to know. The language, not to mention the overuse of symbols, is so dense that one quickly loses track of what was actually measured, what was invented or assumed, and what is being discussed.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "While it is true that the authors are under no 'legal' obligation to cite these results, as they are unpublished, they are probably morally obliged to consider what they tell us in comparison with their own results.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "It was agonizing for this reviewer to read a total of nine pages describing the overall methods.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I have read this paper several times through, and I have nothing to say in its defense.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Come on please!!!",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "You aimed for the bare minimum, and missed!",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Why don't you just send copies of this to the two people in the world who care about it, and forget the publication route?",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This is a heretofore unobserved result and is very interesting, but is not novel.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "As I understand it, you already have good evidence (you've said as much on Facebook). There's no reason to leave this as an open question when you know the answer.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is a nicely done paper but the sample is small, the measures uninformative, and the findings have only very weak relevance to policy or practice. Nothing much one can do about these flaws.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I stopped reading the subsequent data reports carefully, because I no longer had confidence that they would be accurate.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The project is lack of interest.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Table 2 stunningly over-interprets some relatively small signals in the data.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I think this article is carefully argued, but at no moment is it stated that Heidegger was a Nazi.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "A classic instance of reinvention of the square wheel.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It is shocking to read how statistics are being misused just for the sake of being able to write something... I rate this article as very un-scientific…",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The conclusion is something of a shaggy dog.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "What is a 'systematic' review? I have never heard of an unsystematic review.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The derivation is correct but too simple! The paper is therefore not suitable for a general readership.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Not earth shatteringly original but it is hard to be so in this field.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "If philosophy of science was not taught in the author's doctoral program, (s)he needs to go back and dope slap his/her major professor.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This paper represents an example of a piece of work that just crosses the threshold into the category of 'least publishable unit'.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The theoretical section is just about unreadable for anyone unfamiliar with the language of the relevant French theorists.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "For a section on thought, very little seems to have gone into it.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "[REDACTED]'s talks are popular, but then so are Ke$ha concerts.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The biggest problem with this manuscript, which has nearly sucked the will to live out of me, is the terrible writing style.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The presentation is of a standard that I would reject from an undergraduate student",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Alarming errors, even if they could be easily corrected, gave the manuscript a sense of carelessness that makes me hesitant to recommend it for revisions.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper is so devoid of content it should be rejected outright.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "There is a sense that there is a finding, but not much of an explanation for why this finding makes sense, and why it is interesting and important. The introduction is particularly weak. It begins with some general statements which have nothing to do with the current research, and then describes each variable separately in an order that makes no apparent sense.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "There are a number of awkward sentences (these occur as early as the abstract), and the writer has a tendency to overburden the sentence. At a deeper level, the argument is at times uninspiring. Nevertheless, the topic is interesting enough.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The title of the submission is misleading and it should be renamed 'A Personal Diary'...",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The paper is neither exciting nor harmful.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Unless the authors performed some clever pagan ritual before euthanizing the animals I would use 'killed' (or 'euthanized') instead of 'sacrificed'",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Putting it unfairly perhaps, and I am sure this is not what is meant, but one ungenerous reading of the proposal is...",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Are we modelling an astronomical object here or an abstraction?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This would have been a question of high interest 10 years back",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "On my opinion, the approach the authors are using is trivial and the problem they are solving is made up.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The authors should at least try to read some of the previous work in the field before attempting to solve our problems.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The conclusions are still not consistent with the (lack of) findings.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Theories can be meaningful when they can explain phenomenon. If theories exist for themselves, they may be play of language.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "A weak paper, poor experimental design, comparison of sequences using different primers, no statistical analysis possible, carelessly written, poorly thought through.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The first and last paragraphs are weak and read in a style unlike the rest of the paper, like poor advertising copy.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I started to review this but could not get much past the abstract.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Very very sloppy",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The authors have entered a controversial area. For both their sake and the reputation of the journal, they need to make sure their research will stand up under the inevitable scrutiny.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The author's spelling of coordinate, while technically correct, is arcane and annoying.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The best thing about the paper in its current form is that is that it is [sic] short, so I did not waste a lot of time reading it; it looks like someone's smart graduate student has been foraging in theory and has managed to learn how to mangle simple concepts and hide them behind pretentious but empty prose.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Good topic, but i dont get an idea of the results.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Unless and until more appropriate methods are employed, it is impossible to judge the claims of the authors although, based on previous results, there is real reason to believe that the claims may pan out in some generic sense.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I also would add that while I don't have anything serious to complain about, I also see this work as being pretty straightforward - there is no 'big idea' that I see as especially imaginative or creative. Again, it is extremely solid, just not necessarily sexy.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The writing and data presentation are so bad that I had to leave work and go home early and then spend time to wonder what life is about.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I now have had a chance to look at this paper. I think it is a bit of a joke.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This is from a methods perspective rather unacceptable in these days of 'voodoo' science.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "There are FAR too many analyses and results. The reader is swamped. It's simply not possible to take it all in. It needs to be pruned.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This technique will never work.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This needs to be standardized!!! It must be converted into population density, e.g. inhabitants per km2!!!Why should we expect some kind of relationship with these variables?? It needs to be justified in the introduction!!!",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Mr. Beard is very courageous when he gives freely so many references to other books, because if a student ever did look at another book, I am sure he would not return again to continue reading Mr. Beard.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Like Dr Who's Tardis, the inside of the paper is bigger than the outside.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The odds ratios in Table 2 are like the plains of Kansas: flat, flat flat!",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The rest of this review operates from the assumption that this paper is a sincere attempt at scientific evidence and argument.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper is desperate. Please reject it completely and then block the author's email ID so they can't use the online system in the future.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I also do not feel that the lead PI is qualified to undertake this work, or more accurately, that she should undertake this work; she needs to be academically successful first.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I now turn to my best guess about what the authors might be doing.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The research adds meaningful to the literature, how?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Was this an undergraduate class assignment?",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Preliminary and intriguing results that should be published elsewhere.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "So, what is the point of this?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The statistical analyses were not correct. Actually they were so confused that I lost all confidence in the analyses and data presentation.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This kind of prose simply borders on cruelty against the reader. And finally comes the conclusion, which is the intellectual equivalent of bubblegum.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I suppose that I should be happy that I don't have to spend a lot of time reviewing this dreadful paper; however I am depressed that people are performing such bad science.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "My disappointment when finding flawed analyses, conclusions, and terminology [..] was therefore substantial.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Other papers are cited that were clearly not read carefully, resulting in some memorable howlers.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This needs some rephrasing — it's loaded with the assumption that there is a real world",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The problem is epitomized by almost every word choice in the title",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Words are used inappropriately — I count, for example, 13 instances of 'unique', but it is used correctly only once.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The authors showed the differences at scale 3, and so what?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Please use something in parenthesis so your reader doesn't have to take a break from reviewing your work to Google it",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The introduction is so confusing and purely written that I gave up.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "And finally, the references are a mess.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The findings are not novel and the solution induces despair.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This would be a stronger article if its tone were less polemical and more analytical. The following paragraph, for example, will strike many of your readers as shrill. They will stop reading the article and throw it into the fire",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "What do the authors mean by one standard error?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I can see that the manuscript has archival value",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This is such a promising topic, but I was very disappointed in this paper combining a substantial amount of author talent.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I am generally very happy to provide extensive suggestions and comments on manuscripts, but this submission was an absolute waste of my time.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I understand that Wikipedia is not the best source for my information, however, I don't have access to the [peer-reviewed] literature you cite, and based on the information from Wikipedia, your hypothesis breaks down.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "To me the question is uninteresting",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The authors offer no credible theoretical reason why we should care about this result.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Not sure how to say this diplomatically, but the manuscript is really dull",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "All these data are given in the author's Ph.D thesis. Does this material need to be published?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "From this conclusion, the premise does not follow.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I recommend acceptance, provided the editors are willing to stretch the standards for publication a bit",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The history of science tells us that a strong theory that explains numerous phenomena is generally overturned by a better theory, rather than by the wholly negative and nitpicking criticisms of the present paper.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Who are and where did they come from? That is, why was this obsucre and arbitrary method chosen?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Nobody in their right mind would ever suggest such a model",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This review is without a doubt the single most difficult one I have had to write so far.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Reject - More holes than my grandad's string vest!",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "That omission is a standard feature of articles from the fourth author's lab. Although it normally does not bite him, it does in this case.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper is under-referenced, conceptually impoverished, and poorly written",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This work amounts to a form of methodological perfectionism. Perfectionism can be the enemy of the possible in science.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The last two sentences of the summary greatly exaggerate the value of this paper and the usefulness of its conclusions.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The research claims these phenomena are “understudied,” as though there is some amount of study they should endure.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The most striking—and troubling—feature of this manuscript is that it contains so many exceedingly strange assumptions.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I'm disappointed to say, given the outstanding pedigree of the authors of this paper, that it adds nothing to earlier research.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The abstract says absolutely nothing, and I mean this literally and not as a judgement for the content of the paper.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I am afraid this manuscript may contribute not so much towards the field's advancement as much as towards its eventual demise.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This ridiculous comment that a powerful computer algebra systems was required on page 6 is absurd.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I hope the authors can learn from this exercise on what is expected to craft a publishable paper.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "This looks like a very early draft",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The paper is okay, its not 'wow' but its hard to reject it.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "They claim on page 9 a significant improvement of their method. This is stupid!",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It is early in the year, but difficult to imagine any paper overtaking this one for lack of imagination, logic, or data—it is beyond redemption",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The figures are dishonest and not all that useful.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Studies undertaken in such a manner as presented here degrade all science by giving the semblance of legitimacy to illegitimate work.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "As far as this reviewer can tell, what the authors present is not so much a model as it is an equation.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Find your inner nerd — it must be a big part of you — bind and gap it and then dump it in the ocean tied to a large rock.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The present article, however, is in no way impressive, as its stands out by sloppiness in conceptual, theoretical as well as methodological aspects and does barely add any relevant knowledge.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The stimuli are impossible to compute.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I know you want to use hormones to study physiological changes, but humans are more than hormones.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I was not sure exactly which problem the author is trying to solve and vice verse it was not clear to me what problem the solution is intended to solve or explorer.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "To justify these conclusions and spur the authors onto the better things they are undoubtedly capable of I append some details.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This is a perfect example of the worst kind of research in social psychology.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "presumptuous, ignorant and downright dangerous.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I am constructing this review more in a stream of conscious thought than a systematic assessment.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The writing is often arrestingly pedestrian",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "That gives a ridiculous demonstration where authors forgot science and reinvent history (...) the authors don't have a clue of what was already done in the literature.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I have to reject this paper. It is saying a triviality hidden behind some math and I am not sure if the authors are even aware of this fact.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "Was the white noise random?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "In fact, your hypotheses are not all that complex are they? Nor is Figure 1; n'est-ce pas?",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Can you explain this part a bit further, but without going into detail.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The underlying agenda is a sales pitch.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Proposition 7 was so fundamentally wrong that I saw no point in reading beyond it.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The analyses are too statistic",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The enormous and overwhelming - not to say pathetic - admiration, even adoration of the author for her subject is barely acceptable anymore for a modern biography.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Did all 5 authors say,'Yes, this is a piece of work I am proud to have my name on?'",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Unfortunatelly, the paper is very shallow. The results are at the level of a naive master thesis.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "I doubt that it's worth publishing a handful of graphs that few would find surprising and that anyone else could generate in a day off.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "It (paper) has a kind of self-help quality to it",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "The reported mean of 7.7 is misleading because it appears that close to half of your participants are scoring below that mean",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "Limited scholarship, flawed design, and faulty logic engender no enthusiasm whatsoever",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper reads like a woman's diary, not like a scientific piece of work'",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "To put it bluntly: The last thing I want is a reviewer rejecting my papers with reference to an ideological paper like this one.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "While it unfortunately doesn't make for a flashy title (which the authors like more than British tabloids do), there is a simple alternative interpretation of their results.",
+    "label": "Unprofessional comment"
+  },
+  {
+    "extract": "The examples are stale - the method is not exciting. There is nothing much here.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This paper adds nothing to the existing knowledge of the subject.",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "I don't believe in simulations",
+    "label": "Unconstructive comment"
+  },
+  {
+    "extract": "This, of course, is disingenuous if not unethical.",
+    "label": "Unconstructive comment"
+  }
+]
