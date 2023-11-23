@@ -1,4 +1,4 @@
-# ShitMyReviewersSay Data Set
+# "Shit My Reviewers Say" Data Set
 
 Data set of 780 unique quotes collected from the ShitMyReviewersSay Tumblr blog (source: https://shitmyreviewerssay.tumblr.com/).
 
