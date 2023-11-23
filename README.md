@@ -1,6 +1,6 @@
 # ShitMyReviewersSay Data Set
 
-Data set of 823 quotes collected from the ShitMyReviewersSay Tumblr blog (source: https://shitmyreviewerssay.tumblr.com/).
+Data set of 780 unique quotes collected from the ShitMyReviewersSay Tumblr blog (source: https://shitmyreviewerssay.tumblr.com/).
 
 All quotes have been labeled with either one of the following categories:
 
