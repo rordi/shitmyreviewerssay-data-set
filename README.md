@@ -15,3 +15,5 @@ unconstructive comments, it is important to avoid such examples.
 
 Labelling was performed by Dietrich Rordorf, 2023 as part of a Master's thesis at the University of Applied Sciences
 Northwestern Switzerland (FHNW).
+
+A somewhat related data set can be found in: https://github.com/PrabhatkrBharti/ConstructPeer
